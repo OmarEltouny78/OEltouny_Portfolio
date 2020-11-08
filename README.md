@@ -7,7 +7,7 @@ My Data Science portfolio
 
 - Next, you will use the scikit-learn package to predict whether you can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc. You will go over implementations of common algorithms such as PCA, logistic regression, decision trees, and so forth.
 
-![](https://github.com/OmarEltouny78/OEltouny_Portfolio/blob/main/images/PCA.png)
+![](images/PCA.png)
 
 # [Project 2: Sentiment-Analysis](https://github.com/OmarEltouny78/Sentiment-Analysis)
 
@@ -21,7 +21,7 @@ Getting an understanding of Sentiment Analysis
 - Working on real life data
 - Applying this social media sites starting with Twitter
 
-![](https://github.com/OmarEltouny78/OEltouny_Portfolio/blob/main/images/Analysis.png)
+![](images/Analysis.png)
 
 # [Project 3: Bad Passwords](https://github.com/OmarEltouny78/Bad_Passwords)
 
@@ -33,11 +33,11 @@ Getting an understanding of Sentiment Analysis
 
 # [Project 4: Banking](https://github.com/OmarEltouny78/Banking)
 
-After a debt has been legally declared "uncollectable" by a bank, the account is considered "charged-off." But that doesn't mean the bank walks away from the debt. They still want to collect some of the money they are owed. The bank will score the account to assess the expected recovery amount, that is, the expected amount that the bank may be able to receive from the customer in the future. This amount is a function of the probability of the customer paying, the total debt, and other factors that impact the ability and willingness to pay.
+- After a debt has been legally declared "uncollectable" by a bank, the account is considered "charged-off." But that doesn't mean the bank walks away from the debt. They still want to collect some of the money they are owed. The bank will score the account to assess the expected recovery amount, that is, the expected amount that the bank may be able to receive from the customer in the future. This amount is a function of the probability of the customer paying, the total debt, and other factors that impact the ability and willingness to pay.
 
-The bank has implemented different recovery strategies at different thresholds ($1000, $2000, etc.) where the greater the expected recovery amount, the more effort the bank puts into contacting the customer. For low recovery amounts (Level 0), the bank just adds the customer's contact information to their automatic dialer and emailing system. For higher recovery strategies, the bank incurs more costs as they leverage human resources in more efforts to obtain payments. Each additional level of recovery strategy requires an additional $50 per customer so that customers in the Recovery Strategy Level 1 cost the company $50 more than those in Level 0. Customers in Level 2 cost $50 more than those in Level 1, etc.
+- The bank has implemented different recovery strategies at different thresholds ($1000, $2000, etc.) where the greater the expected recovery amount, the more effort the bank puts into contacting the customer. For low recovery amounts (Level 0), the bank just adds the customer's contact information to their automatic dialer and emailing system. For higher recovery strategies, the bank incurs more costs as they leverage human resources in more efforts to obtain payments. Each additional level of recovery strategy requires an additional $50 per customer so that customers in the Recovery Strategy Level 1 cost the company $50 more than those in Level 0. Customers in Level 2 cost $50 more than those in Level 1, etc.
 
-The big question: does the extra amount that is recovered at the higher strategy level exceed the extra $50 in costs? In other words, was there a jump (also called a "discontinuity") of more than $50 in the amount recovered at the higher strategy level? We'll find out in this notebook.
+- The big question: does the extra amount that is recovered at the higher strategy level exceed the extra $50 in costs? In other words, was there a jump (also called a "discontinuity") of more than $50 in the amount recovered at the higher strategy level? We'll find out in this notebook.
 
-![](https://github.com/OmarEltouny78/OEltouny_Portfolio/blob/main/images/Banking.png)
+![](/images/Banking.png)
 
